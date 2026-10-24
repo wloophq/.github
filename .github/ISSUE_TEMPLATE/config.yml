@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/wloophq/wloop/security/advisories/new
+    about: Report security problems privately, not in a public issue.
+  - name: Documentation
+    url: https://wloophq.github.io/wloop/
+    about: Guides and reference for using the tools.
